@@ -13,6 +13,7 @@ Users should be able to:
 ### Screenshot
 - Desktop View:
 ![Desktop View](./assets/desktopView.jpg)
+
 - Mobile View:
 ![Mobile View](./assets/mobileView.jpg)
 - Mobile View-Navbar:
