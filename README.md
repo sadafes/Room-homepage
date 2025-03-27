@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot
 - Desktop View:
-![Desktop View](https://github.com/sadafes/Room-homepage/issues/1)
+![Desktop View]((https://github.com/sadafes/Room-homepage/commit/f3b93cf126eed86840d5bf586ac28c492f3876e1))
 - Mobile View:
 ![Mobile View](https://github.com/sadafes/Room-homepage/issues/2)
 ![Mobile View- Navbar](https://github.com/sadafes/Room-homepage/issues/3)
