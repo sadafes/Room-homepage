@@ -12,15 +12,16 @@ Users should be able to:
 
 ### Screenshot
 - Desktop View:
-![Desktop View](https://github.com/sadafes/Room-homepage/issues/1)
+![Desktop View](./assets/desktopView.jpg)
 - Mobile View:
-![Mobile View](https://github.com/sadafes/Room-homepage/issues/2)
-![Mobile View- Navbar](https://github.com/sadafes/Room-homepage/issues/3)
+![Mobile View](./assets/mobileView.jpg)
+- Mobile View-Navbar:
+![Mobile View- Navbar](./assets/mobileView-Navbar.jpg)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://sadafes.github.io/Room-homepage/)
+-  [Live Site URL](https://sadafes.github.io/Room-homepage/)
 
 
 ### Built with
@@ -34,4 +35,4 @@ Users should be able to:
 
 ### What I learned
 
-I had a lot of challenges with flex and grid. I was able to change the style of the items using JavaScript.
+I had a lot of challenges with flex and grid.It would have been impossible without using the grid. I tried to pay attention to the details of the design.
